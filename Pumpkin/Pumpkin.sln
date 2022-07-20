@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pumpkin", "Pumpkin\Pumpkin.csproj", "{F56905CA-6A3C-411A-A9E8-AA95211D0386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F56905CA-6A3C-411A-A9E8-AA95211D0386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56905CA-6A3C-411A-A9E8-AA95211D0386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56905CA-6A3C-411A-A9E8-AA95211D0386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56905CA-6A3C-411A-A9E8-AA95211D0386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {509A2892-28EF-4F50-ADD9-22AD0318889C}
+	EndGlobalSection
+EndGlobal
